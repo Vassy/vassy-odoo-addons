@@ -1,2 +1,2 @@
 # vassy-odoo-addons
-Addons for Odoo
+Addons for Odoo 8
