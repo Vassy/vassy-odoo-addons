@@ -25,6 +25,9 @@
     'category': 'Custom',
     'summary': 'Idea from Rosen Vladimirov',
     'website': 'http://www.openerp.bg',
+    'depends': [
+        'base',
+    ],
     'data': [],
     'demo': [],
     'installable': True,
