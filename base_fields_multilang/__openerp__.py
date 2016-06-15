@@ -20,7 +20,7 @@
 
 {
     'name': 'Multi Language for Base Fields',
-    'version': '8.0.1.0.1',
+    'version': '8.0.1.0',
     'author': 'Prodax Ltd., Vassil Toumbev',
     'category': 'Custom',
     'summary': 'Idea from Rosen Vladimirov',
