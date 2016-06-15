@@ -1,4 +1,3 @@
-# vassy-odoo-addons
 # Addons for Odoo 8
 
 Invoice print amout text for Odoo
