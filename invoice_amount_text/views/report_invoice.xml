@@ -5,7 +5,7 @@
       <xpath expr="//table[@class='table table-condensed']/following-sibling::div[1]" position="after">
              
                  
-                   <span><strong >Словом: </strong><span t-esc="o.amount_in_word" /></span>
+                   <p><strong >Словом: </strong><span t-esc="o.amount_in_word" /></p>
                 
             
            
