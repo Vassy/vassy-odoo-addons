@@ -45,6 +45,7 @@ class res_bank(osv.osv):
         'city': fields.char('City', required=False, translate=True),
         'bank_name': fields.char('Bank Name ', required=False, translate=True),
     }
+    
 class ResCompany(osv.Model):
     _inherit = 'res.company'
     _columns = {
@@ -57,4 +58,10 @@ class ResCompany(osv.Model):
         'street': fields.char('Street', required=False, translate=True),
         'street2': fields.char('Street2', required=False, translate=True),
         'city': fields.char('City', required=False, translate=True),
+}
+
+class ResCompany(osv.Model):
+    _inherit = 'delivery.carrier'
+    _columns = {
+        'name': fields.char('Delivery Method', required=False, translate=True),
 }
