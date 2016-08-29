@@ -27,6 +27,7 @@
     'website': 'http://www.openerp.bg',
     'depends': [
         'base',
+        'partner_address_street3',
     ],
     'data': [],
     'demo': [],
