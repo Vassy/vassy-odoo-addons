@@ -60,8 +60,3 @@ class ResCompany(osv.Model):
         'city': fields.char('City', required=False, translate=True),
 }
 
-class ResCompany(osv.Model):
-    _inherit = 'delivery.carrier'
-    _columns = {
-        'name': fields.char('Delivery Method', required=False, translate=True),
-}
