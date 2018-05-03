@@ -20,10 +20,10 @@
 
 {
     'name': 'Multi Language for Base Fields',
-    'version': '8.0.1.0',
+    'version': '10.0.1.0',
     'author': 'Prodax Ltd., Vassil Toumbev',
     'category': 'Custom',
-    'summary': 'Idea from Rosen Vladimirov',
+    'summary': 'Translate other Odoo fields',
     'website': 'http://www.openerp.bg',
     'depends': [
         'base',
@@ -31,7 +31,7 @@
     ],
     'data': [],
     'demo': [],
-    'installable': True,
+    'installable': False,
     'auto_install': False,
 }
 # vim:expandtab:smartindent:tabstop=4:softtabstop=4:shiftwidth=4:
