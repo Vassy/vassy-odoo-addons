@@ -22,9 +22,10 @@
 {
     'name': 'Invoice Amount Text',
     'version': '10.0.1.0',
-    'author': Prodax Ltd. - Odoo Bulgaria - Vassil Toumbev',
+    'author': 'Prodax Ltd., Vassil Toumbev',
+    'category': 'Bulgarian locale',
+    'summary': 'Print amount to text in invoices',
     'website': 'http://www.openerp.bg',
-    'category': 'Accounting & Finance',
     'depends': [
         'account',
     ],
