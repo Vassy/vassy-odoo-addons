@@ -1,9 +1,8 @@
 # -*- coding: utf-8 -*-
 ##############################################################################
 #
-#    OpenERP, Open Source Management Solution
-#    Copyright (C) 2004-2010 Tiny SPRL (<http://tiny.be>).
-#    2015 FreeLancer - M. BKY (yacine.bensidhoum@gmail.com)
+#    Odoo, Open Source Management Solution
+#    2016-2018 Prodax Ltd. - Vassil Toumbev (support@openerp.bg)
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU Affero General Public License as
