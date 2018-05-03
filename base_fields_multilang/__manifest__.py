@@ -23,7 +23,7 @@
     'name': 'Multi Language for Base Fields',
     'version': '10.0.1.0',
     'author': 'Prodax Ltd., Vassil Toumbev',
-    'category': 'Custom',
+    'category': 'Bulgarian locale',
     'summary': 'Translate other Odoo fields',
     'website': 'http://www.openerp.bg',
     'depends': [
