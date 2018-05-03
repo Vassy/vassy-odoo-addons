@@ -22,8 +22,8 @@
 
 {
     'name': 'Invoice Amount Text',
-    'version': '8.0.2.0',
-    'author': 'BENSIDHOUM Kheireddine Yacine, Prodax Ltd. - Odoo Bulgaria - Vassil Toumbev',
+    'version': '10.0.1.0',
+    'author': Prodax Ltd. - Odoo Bulgaria - Vassil Toumbev',
     'website': 'http://www.openerp.bg',
     'category': 'Accounting & Finance',
     'depends': [
@@ -36,7 +36,7 @@
 
     ],
 
-    'installable': True,
+    'installable': False,
     'auto_install': False,
 }
 
